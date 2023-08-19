@@ -5,4 +5,4 @@ topics of shell scripting
 comments
 printing
 variables
-numbers
+number
