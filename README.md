@@ -1,8 +1,9 @@
 # learn-shell
 
-topics of shell scripting
+topics of shell sscript 
 
-comments
-printing
-variables
-number
+ print 
+ read
+ write
+ helloworld
+ 
