@@ -2,8 +2,7 @@
 
 topics of shell sscript 
 
- print 
- read
- write
- helloworld
- 
+*  print 
+*  read
+*  write
+* helloworld
